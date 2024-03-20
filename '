@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title></title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="main.js" defer></script>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+</head>
+
+<body>
+  <div id="carousel-container">
+    <div id="div-carousel-image">
+
+    </div>
+    <div id="div-carousel-selectors">
+      <div id="arrow-left" class="material-symbols-outlined">chevron_left</div>
+      <div id="image-selector" class="material-symbols-outlined image-1">circle</div>
+      <div id="image-selector" class="material-symbols-outlined image-2">circle</div>
+      <div id="image-selector" class="material-symbols-outlined image-3">circle</div>
+      <div id="image-selector" class="material-symbols-outlined image-4">circle</div>
+      <div id="image-selector" class="material-symbols-outlined image-5">circle</div>
+      <div id="arrow-right" class="material-symbols-outlined">chevron_right<></div>
+    </div>
+
+
+  </div>
+
+
+
+</body>
+
+</html>
